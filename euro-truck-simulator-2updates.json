@@ -5,7 +5,7 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "1948160",
         "UpdateSourceArgs": "1948160",
-        "UpdateSourceVersion": "",
+        "UpdateSourceVersion": "public",
         "SkipOnFailure": false
     },
     {
